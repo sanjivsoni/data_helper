@@ -21,7 +21,7 @@ df.create_stats_table(data = filtered_df,
                       filter_column='age',
                       features=features) 
 
-# Plots a histogram for a feature
+# Plots a histogram for a feature with std and mean in title
 df.plot_hist(df = data['feature'],
              bins = 20,
              title = 'Distribution of Feature',
