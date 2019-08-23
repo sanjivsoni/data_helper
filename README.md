@@ -43,6 +43,18 @@ mf.plot_df_features(df data,
                     suptitle = super_title)
 ```
 
+## Screenshots
+Creating a Decile Plot
+![Screenshot 2019-08-23 at 10 02 24 AM](https://user-images.githubusercontent.com/6757985/63609990-2f87cb80-c58d-11e9-88f1-598f1fd081b5.png)
+
+Creating a Statistical Summary Table
+![Screenshot 2019-08-23 at 10 06 50 AM](https://user-images.githubusercontent.com/6757985/63610214-bfc61080-c58d-11e9-8182-931f88617817.png)
+
+Creasting Histogram Pplot
+![Screenshot 2019-08-23 at 10 08 53 AM](https://user-images.githubusercontent.com/6757985/63610310-074c9c80-c58e-11e9-9810-56836f404d7f.png)
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
